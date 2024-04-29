@@ -1,0 +1,30 @@
+{
+  "name": "mk-currency-convertor",
+  "version": "1.0.0",
+  "description": "currency value known using for this package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muthukrishnan2812/currency-convertor.git"
+  },
+  "keywords": [
+    "currency_convertor",
+    "currency-value",
+    "dollar-rate",
+    "INR",
+    "value"
+  ],
+  "author": "MK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muthukrishnan2812/currency-convertor/issues"
+  },
+  "homepage": "https://github.com/muthukrishnan2812/currency-convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
